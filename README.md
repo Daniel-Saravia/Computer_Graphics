@@ -19,17 +19,17 @@ Ensure you have OpenGL and GLUT installed on your system. Use the following comm
 Sierpinski2D.cpp:
 
 g++ Sierpinski2D.cpp -o Sierpinski2D -lglut -lGLU -lGL
-./Sierpinski2D
+./Sierpinski2D (or open the new Sierpinski2D file in your files)
 
 Sierpinski3D.cpp:
 
 g++ Sierpinski3D.cpp -o Sierpinski3D -lglut -lGLU -lGL
-./Sierpinski3D
+./Sierpinski3D (or open the new Sierpinski3D file in your files)
 
 Sierpinski3DMOVE.cpp:
 
 g++ Sierpinski3DMOVE.cpp -o MOVE -lglut -lGLU -lGL
-./MOVE
+./MOVE (or open the new MOVE file in your files)
 
 Dependencies
 OpenGL
