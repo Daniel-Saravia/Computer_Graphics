@@ -20,10 +20,12 @@ Sierpinski2D.cpp:
 
 g++ Sierpinski2D.cpp -o Sierpinski2D -lglut -lGLU -lGL
 ./Sierpinski2D
+
 Sierpinski3D.cpp:
 
 g++ Sierpinski3D.cpp -o Sierpinski3D -lglut -lGLU -lGL
 ./Sierpinski3D
+
 Sierpinski3DMOVE.cpp:
 
 g++ Sierpinski3DMOVE.cpp -o MOVE -lglut -lGLU -lGL
